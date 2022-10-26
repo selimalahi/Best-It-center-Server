@@ -1,0 +1,242 @@
+[
+    {
+    "_id": "1001",
+    "category_id": "01",
+    "title": "C Programming For Beginners",
+    "course_hours":"92",
+    "instructor":"Md Joshim Uddin",
+    "price":"10000",
+    "image_url": "https://1.bp.blogspot.com/-nxid6Xlc4tk/WZdTjNSFYeI/AAAAAAAAFnk/DAH_PDBuU2AnHjF7eEf6JzoKO9yXguUhACLcBGAs/s1600/Top%2B10%2Bvideo%2Btutorial%2Bto%2Blearn%2BC%2BProgramming.jpg",
+    "description": "C is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more.",
+      "requirements":[
+      "Access to a computer might be beneficial but is not needed",
+      "Interest in Computer Science and Programming"
+      
+    ],  
+      "course_feature":[
+      "Basic Concept of programming",
+        " Character set Identifiers keyword",
+        "data types Constants and variables",
+        "statements expression operators",
+         " precedence of operators  Input-output",
+        "Problem Solving"
+      ]
+    
+    },
+    {
+    "_id": "1002",
+    "category_id": "01",
+    "title": "C programming Problem solving",
+    "course_hours":"92",
+    "instructor":"Md Joshim Uddin",
+    "price":"10000",
+    "image_url": "https://ict.iitk.ac.in/wp-content/uploads/Problem-solving-through-Programming-In-C-2-2.jpg",
+    "description": "C is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more.",
+      "requirements":[
+      "computer must be needed"
+          
+    ],  
+      "course_feature":[
+      "Advance Concept of programming",      
+        "Problem Solving",
+        " create more than 35 projects "
+      ]
+    
+    },
+     {
+    "_id": "1003",
+    "category_id": "02",
+    "title": "C++ Programming For Basics to Advance",
+    "course_hours":"82",
+    "instructor":"Md Mehedi Hasan",
+    "price":"12000",
+    "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1080335/retina_1708x683_cover-0325-LearnCandC__Languages_Dan_Newsletter-743100f051077054fa1cc613ff4523a2.png",
+    "description": "C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures.",
+      "requirements":[
+      "computer must be needed"
+          
+    ],  
+      "course_feature":[
+      "Advance Concept of programming",
+        "C++ Classes, function, OOP",
+        "Implementing modules",
+        "Problem Solving",
+        " create more than 30 projects "
+      ]
+    
+    },
+    {
+    "_id": "1004",
+    "category_id": "03",
+    "title": "Java Programming For Beginners",
+    "course_hours":"72",
+    "instructor":"Md Azahar Mulla",
+    "price":"15000",
+    "image_url": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/02/basic-syntax-of-Java-Programming.png",
+    "description": "Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages.",
+      "requirements":[
+      "computer must be needed",
+          
+    ],  
+      "course_feature":[
+      "Basics Concept of java programming",      
+        "Create a Function",
+        " Some Problem Solving"
+   
+      ]
+    
+    },
+    {
+    "_id": "1005",
+    "category_id": "03",
+    "title": "Java Object Oriented Programming ",
+    "course_hours":"72",
+        "instructor":"Mr: Haider Ali",
+    "price":"15000",
+    "image_url": "https://static.javatpoint.com/images/java-oops.png",
+    "description": "OOP stands for Object-Oriented Programming. Procedural programming is about writing procedures or methods that perform operations on the data, while object-oriented programming is about creating objects that contain both data and methods.",
+      "requirements":[
+      "computer must be needed"
+          
+    ],  
+      "course_feature":[
+      "OOp Concept of java programming",      
+        "Create a Function",
+        "Abstraction encapsulation inheritance and polymorphism",
+        " Some Problem Solving"
+   
+      ]
+    
+    },
+    {
+    "_id": "1006",
+    "category_id": "04",
+    "title": "JavaScript For Beginners",
+    "course_hours":"100",
+        "instructor":"Md.Selim Alahi",
+    "price":"19000",
+    "image_url": "https://blog.eduonix.com/wp-content/uploads/2021/09/19199360-scaled.jpg",
+    "description": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
+      "requirements":[
+      "computer must be needed"
+          
+    ],  
+      "course_feature":[
+      "Basics Concept of javaScript programming",      
+        "Hello JavaScript ",
+        
+        " Some Problem Solving"
+   
+      ]
+    
+    },
+     {
+    "_id": "1007",
+    "category_id": "04",
+    "title": "JavaScript For Web Development",
+    "course_hours":"120",
+        "instructor":"Md.Selim Alahi",
+    "price":"29000",
+    "image_url": "https://miro.medium.com/max/1193/1*TZ2HKSWyVOdNW6c3Zz3RzA.png",
+    "description": "JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. This article helps you get started with JavaScript and furthers your understanding of what is possible.",
+      "requirements":[
+      "computer must be needed",
+      " Must be Internet"
+          
+    ],  
+      "course_feature":[
+      "Advance Concept of javaScript programming",      
+        "Hello JavaScript ",
+        " Integrate JavaScript",
+        "Intermediate javascript",
+        "Apply Api call",
+        " Some Problem Solving",
+        "At least work at 25 projects"
+   
+      ]
+    
+    },
+     {
+    "_id": "1008",
+    "category_id": "05",
+    "title": "R Languages For Beginners",
+    "course_hours":"120",
+        "instructor":"Mr.mohaiminul Islam",
+    "price":"29000",
+    "image_url": "https://www.analytixlabs.co.in/blog/wp-content/uploads/2022/01/Banner-Image-2.png",
+    "description": "R is a programming language created by statisticians for statistics, specifically for working with data. It is a language for statistical computing and data visualizations used widely by business analysts, data analysts, data scientists, and scientists",
+      "requirements":[
+      "computer must be needed",
+      " Must be Internet"
+          
+    ],  
+      "course_feature":[
+      "Basic to Advance Concept of R languages",      
+        "Hello R Languages ",
+        " Integrate R Languages",
+        "Intermediate Languages",
+        
+        " Some Problem Solving",
+        "At least work at 25 projects"
+   
+      ]
+    
+    },
+     {
+    "_id": "1009",
+    "category_id": "06",
+    "title": "Python Programming For Beginners",
+    "course_hours":"150",
+        "instructor":"Mr. Hasib ud Jaman",
+    "price":"30000",
+    "image_url": "https://blog.eduonix.com/wp-content/uploads/2018/09/Scientific-Python-Scipy.jpg",
+    "description": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.",
+      "requirements":[
+      "computer must be needed",
+      " Must be Internet"
+          
+    ],  
+      "course_feature":[
+      "Basic Concept of Pyrhon languages",      
+        "Hello Pyrhon Languages ",
+        " Integrate P Languages",          
+        " Some Problem Solving"
+        
+   
+      ]
+    
+    },
+     {
+    "_id": "10010",
+    "category_id": "06",
+    "title": "Advance Python Programming",
+    "course_hours":"150",
+        "instructor":"Mr. Hasib ud Jaman",
+    "price":"30000",
+    "image_url": "https://blog.eduonix.com/wp-content/uploads/2018/09/Scientific-Python-Scipy.jpg",
+    "description": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.",
+      "requirements":[
+      "computer must be needed",
+      " Must be Internet"
+          
+    ],  
+      "course_feature":[
+      "Basic Concept of Python languages",      
+        "Hello Python Languages ",
+        " Integrate P Languages", 
+        "Intermediate python",
+        " Some Problem Solving",
+        "Project base course"
+        
+   
+      ]
+    
+    }     
+    
+     
+        
+        
+        
+    
+    
+  ]
