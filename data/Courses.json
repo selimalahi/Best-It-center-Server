@@ -1,7 +1,7 @@
 [
     {
     "_id": "1001",
-    "category_id": "01",
+    "category_id": "1",
     "title": "C Programming For Beginners",
     "course_hours":"92",
     "instructor":"Md Joshim Uddin",
@@ -25,7 +25,7 @@
     },
     {
     "_id": "1002",
-    "category_id": "01",
+    "category_id": "1",
     "title": "C programming Problem solving",
     "course_hours":"92",
     "instructor":"Md Joshim Uddin",
@@ -45,7 +45,7 @@
     },
      {
     "_id": "1003",
-    "category_id": "02",
+    "category_id": "2",
     "title": "C++ Programming For Basics to Advance",
     "course_hours":"82",
     "instructor":"Md Mehedi Hasan",
@@ -67,7 +67,7 @@
     },
     {
     "_id": "1004",
-    "category_id": "03",
+    "category_id": "3",
     "title": "Java Programming For Beginners",
     "course_hours":"72",
     "instructor":"Md Azahar Mulla",
@@ -75,7 +75,7 @@
     "image_url": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/02/basic-syntax-of-Java-Programming.png",
     "description": "Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages.",
       "requirements":[
-      "computer must be needed",
+      "computer must be needed"
           
     ],  
       "course_feature":[
@@ -88,7 +88,7 @@
     },
     {
     "_id": "1005",
-    "category_id": "03",
+    "category_id": "3",
     "title": "Java Object Oriented Programming ",
     "course_hours":"72",
         "instructor":"Mr: Haider Ali",
@@ -110,7 +110,7 @@
     },
     {
     "_id": "1006",
-    "category_id": "04",
+    "category_id": "4",
     "title": "JavaScript For Beginners",
     "course_hours":"100",
         "instructor":"Md.Selim Alahi",
@@ -132,7 +132,7 @@
     },
      {
     "_id": "1007",
-    "category_id": "04",
+    "category_id": "4",
     "title": "JavaScript For Web Development",
     "course_hours":"120",
         "instructor":"Md.Selim Alahi",
@@ -158,7 +158,7 @@
     },
      {
     "_id": "1008",
-    "category_id": "05",
+    "category_id": "5",
     "title": "R Languages For Beginners",
     "course_hours":"120",
         "instructor":"Mr.mohaiminul Islam",
@@ -184,7 +184,7 @@
     },
      {
     "_id": "1009",
-    "category_id": "06",
+    "category_id": "6",
     "title": "Python Programming For Beginners",
     "course_hours":"150",
         "instructor":"Mr. Hasib ud Jaman",
@@ -208,7 +208,7 @@
     },
      {
     "_id": "10010",
-    "category_id": "06",
+    "category_id": "6",
     "title": "Advance Python Programming",
     "course_hours":"150",
         "instructor":"Mr. Hasib ud Jaman",
